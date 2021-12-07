@@ -1,0 +1,15 @@
+
+Body{
+color:black;
+font-family:papyrus;
+}
+h2{
+    color:chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color:lime;
+}
+.post-title{
+    color: magenta;
+}
